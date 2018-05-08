@@ -18,6 +18,7 @@ android
 
 learn
 -----------------------------------
+* [把 github 当作 wiki 系统的整套流程 Simplest](https://github.com/ningdaolong/wiki/blob/master/learn/2018%E5%B9%B45%E6%9C%888%E6%97%A515_41.md)
 * [一篇文章](https://github.com/ningdaolong/wiki/blob/master/learn/18_05_04_first.md)
 
 

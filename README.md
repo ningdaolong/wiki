@@ -14,8 +14,8 @@ git
 android
 -----------------------------
 * [android studio 配置错误](https://github.com/ningdaolong/wiki/blob/master/android/AdroidStudio_Error.md)
+* [Android 编译时警告](https://github.com/ningdaolong/wiki/blob/master/android/Android_Error.md)
 * [Kotlin: How to work with List casts: Unchecked Cast: kotlin.collections.List<Kotlin.Any?> to kotlin.colletions.List<Waypoint>](https://github.com/ningdaolong/wiki/blob/master/android/2018%E5%B9%B45%E6%9C%8811%E6%97%A514_44.md)
-* [Android 编译时警告](https://github.com/ningdaolong/wiki/blob/master/android/2018%E5%B9%B45%E6%9C%8811%E6%97%A514_50.md)
 * [android java.lang.NoSuchFieldError: R$id.xxx](https://github.com/ningdaolong/wiki/blob/master/android/2018%E5%B9%B45%E6%9C%8823%E6%97%A515_19.md)
 * [dialog.setCancelable与setCanceledOnTouchOutside的区别](https://github.com/ningdaolong/wiki/blob/master/android/2018%E5%B9%B45%E6%9C%8824%E6%97%A513_49.md)
 * [Android屏幕适配总结终极方案](https://github.com/ningdaolong/wiki/blob/master/android/2018%E5%B9%B45%E6%9C%888%E6%97%A514_16.md)

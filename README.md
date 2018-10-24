@@ -22,6 +22,7 @@ android
 * [Android WebView的HTML中的select标签不起作用](https://github.com/ningdaolong/wiki/blob/master/android/2018%E5%B9%B47%E6%9C%8810%E6%97%A514_39.md)
 * [style出现Cannot resolve symbol 'Theme' 错误](https://github.com/ningdaolong/wiki/blob/master/android/2018%E5%B9%B47%E6%9C%8810%E6%97%A515_47.md)
 * [Android Studio和SDK缓存目录配置](https://github.com/ningdaolong/wiki/blob/master/android/2018%E5%B9%B47%E6%9C%8830%E6%97%A509_59.md)
+* [Android TabLayout简单使用](https://github.com/ningdaolong/wiki/blob/master/android/2018%E5%B9%B49%E6%9C%886%E6%97%A514_34.md)
 
 learn
 -----------------------------------
